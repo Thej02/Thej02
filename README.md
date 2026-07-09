@@ -150,7 +150,7 @@ Accessible shopping experience using voice interaction and AI assistance.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?Thej02=Thej02&theme=tokyo-night"/>
 
 </p>
 
@@ -178,34 +178,8 @@ Accessible shopping experience using voice interaction and AI assistance.
 
 </p>
 
----
-
-## 💡 Currently Learning
-
-- Data Structures & Algorithms (Java)
-- System Design
-- AWS Cloud
-- Docker
-- REST APIs
-- Authentication & Security
-- AI Integration using Gemini/OpenAI APIs
-
----
-
-## 💭 Quote I Live By
-
-> "Code is like humor. When you have to explain it, it's bad."
-
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=flat"/>
-
-</p>
-
-<p align="center">
-
-⭐ If you like my work, consider starring my repositories!
+ If you like my work, consider starring my repositories!
 
 </p>
