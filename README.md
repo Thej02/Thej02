@@ -6,18 +6,6 @@ Building modern web applications with clean UI, scalable backend architecture, a
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Learning+DSA+Every+Day;Building+AI+Powered+Applications" />
 
 
-
-- 🤝 **Let's build something together:** [thejaswinayak05@gmail.com](mailto:thejaswinayak05@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/thejaswi-nayak-976055219" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://instagram.com/thej.who" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://leetcode.com/u//" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" /></a>
-</p>
-
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" style="margin: 5px;"/> </a>
@@ -35,10 +23,8 @@ Building modern web applications with clean UI, scalable backend architecture, a
 </p>
 
 
-## 📫 Connect with Me
-
+**Let's build something together:
 <p align="left">
-
 <a href="mailto:thejaswinayak05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
