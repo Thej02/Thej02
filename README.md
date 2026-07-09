@@ -1,7 +1,4 @@
 <h1 align="center">Hey there, I'm Thejaswi Nayak!</h1>
-<h3 align="center">
-Software Developer • Full Stack Web Developer • Java Enthusiast
-</h3>
 <h3 align="center">A passionate developer focused on building interactive, minimalist, and high-performance web applications. Always experimenting with modern design systems and clean architecture.</h3>
 </p>
 
