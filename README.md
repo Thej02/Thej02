@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Thejaswi Nayak!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Learning+DSA+Every+Day;Building+AI+Powered+Applications" />
-<p align="center">
 Building modern web applications with clean UI, scalable backend architecture, and AI-powered solutions.
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Learning+DSA+Every+Day;Building+AI+Powered+Applications" />
 
 
 
