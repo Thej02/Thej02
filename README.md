@@ -35,52 +35,6 @@ Building modern web applications with clean UI, scalable backend architecture, a
 </p>
 
 
-
-## 🚀 About Me
-
-- 🎓 Information Science Engineering Student
-- 💻 Passionate about **Full Stack Development**
-- 🤖 Exploring **Artificial Intelligence & LLM Applications**
-- 🌱 Currently learning **Advanced DSA in Java**
-- ☁️ Learning **AWS & Cloud Computing**
-- 🎯 Goal: Crack **SDE roles at top product companies**
-- ⚡ I enjoy turning ideas into beautiful and scalable applications.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
-</p>
-
-### 🚀 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,vite" />
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### ☁ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,npm" />
-</p>
-
-
 ## 📫 Connect with Me
 
 <p align="left">
